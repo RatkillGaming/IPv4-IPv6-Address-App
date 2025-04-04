@@ -1,5 +1,5 @@
 """
-Team: NetTeamTrio
+Team: PiYuMi
 Members:
 - Zeth Pineda (UI/Testing)
 - John Sydney Yusico (Core Logic)
