@@ -10,7 +10,7 @@ import re
 import ipaddress
 
 def validate_ip(ip_str):
-    """Validate IPv4 or IPv6 address - by John"""
+    """Validate IPv4 or IPv6 address - by Johnasd"""
     try:
         ipaddress.ip_address(ip_str)
         return True
