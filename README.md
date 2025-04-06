@@ -1,6 +1,6 @@
 # IPv4/IPv6 Address Application
 
-## Team NetTeamTrio
+## Team PiYuMi
 - **Zeth Pineda**: UI/Testing
 - **John Sydney Yusico**: Core Conversion Logic
 - **Jonwyl Sarmiento**: API Integration & Logging
